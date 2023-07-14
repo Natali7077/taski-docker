@@ -2,7 +2,7 @@
 
 # Тут задачи тестирования и сборки образа
 name: Main Taski workflow
-
+  
 on:
   push:
     branches:
